@@ -11,19 +11,25 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 
 ---
 
-## Academic Projects
+## Projects
 
 ### **Smart Mobile Health Application**
-*Full-stack mobile app built with React Native & Node.js*  
-- Designed and implemented **REST APIs** and a **relational database schema** for patient data   
-- Applied **Agile/Scrum methodology** with backlog management, sprint planning, and iterative testing (Jest)  
-
-### **[Task Manager]**
+*Full-stack mobile app built with React Native & Node.js for Academic-industry partner.*
+- Designed and implemented **REST APIs** and a **relational database schema** for patient data.
+- Applied **Agile/Scrum methodology** with backlog management, sprint planning, and iterative testing (Jest).  
+  
+### **Task Manager**
 - A full-stack task management application built with NestJS backend and Angular frontend.
 - Features secure JWT authentication, TypeORM with SQLite database, and Role-Based Access Control (RBAC) for managing user permissions across different roles.
 - IN PROGRESS: Currently working on it
-- GitHub:
-  
+- GitHub: [https://github.com/saudelo/saudelo-9f2451d9-8c9e-418f-9401-c10c679b7238]
+
+
+### **[Weather-Alert-Service]**
+- Automated notification system demonstrating internal tooling capabilities using Python with Bash scripting.
+- Integrated external APIs to fetch real-time data and trigger notifications.
+- GitHub: [https://github.com/saudelo/weather-alert-service]
+
 ### **[Multithreading practice]**
 - Simple list demo implemented using Java and Gradle to practice multithreading and distributed computing fundamentals.
 - [https://youtu.be/kUjrSUj77fk]
