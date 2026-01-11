@@ -25,12 +25,12 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 - GitHub: [https://github.com/saudelo/saudelo-9f2451d9-8c9e-418f-9401-c10c679b7238]
 
 
-### **[Weather-Alert-Service]**
+### **Weather-Alert-Service**
 - Automated notification system demonstrating internal tooling capabilities using Python with Bash scripting.
 - Integrated external APIs to fetch real-time data and trigger notifications.
 - GitHub: [https://github.com/saudelo/weather-alert-service]
 
-### **[Multithreading practice]**
+### **Multithreading practice**
 - Simple list demo implemented using Java and Gradle to practice multithreading and distributed computing fundamentals.
 - [https://youtu.be/kUjrSUj77fk]
   
