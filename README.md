@@ -18,11 +18,11 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 - Designed and implemented **REST APIs** and a **relational database schema** for patient data   
 - Applied **Agile/Scrum methodology** with backlog management, sprint planning, and iterative testing (Jest)  
 
-### **[Huevana]**
-*A web application to shop by color using Fake Store API*  
-- Key technologies and frameworks used: React front end, still decinging what to use for back end.
-- IN PROGRESS: Currently working on wireframe
-- GitHub: `[link]`
+### **[Task Manager]**
+- A full-stack task management application built with NestJS backend and Angular frontend.
+- Features secure JWT authentication, TypeORM with SQLite database, and Role-Based Access Control (RBAC) for managing user permissions across different roles.
+- IN PROGRESS: Currently working on it
+- GitHub:
   
 ### **[Multithreading practice]**
 - Simple list demo implemented using Java and Gradle to practice multithreading and distributed computing fundamentals.
