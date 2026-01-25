@@ -1,4 +1,4 @@
-# Hi, I’m Suelem! 👋
+# Hi, I’m Suelem! 
 I’m a recent **Software Engineering graduate** passionate about building practical, user-focused software solutions. I enjoy working on **full-stack applications** and problem-solving with code.
 
 ---
