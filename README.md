@@ -18,11 +18,12 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 - Designed and implemented **REST APIs** and a **relational database schema** for patient data.
 - Applied **Agile/Scrum methodology** with backlog management, sprint planning, and iterative testing (Jest).  
   
-### **Task Manager**
-- A full-stack task management application built with NestJS backend and Angular frontend.
-- Features secure JWT authentication, TypeORM with SQLite database, and Role-Based Access Control (RBAC) for managing user permissions across different roles.
-- IN PROGRESS: Currently working on it
-- GitHub: [https://github.com/saudelo/saudelo-9f2451d9-8c9e-418f-9401-c10c679b7238]
+### **Fitness App**
+- A full-stack task Fitness Coaching application built with NextJS and Supabase as a collaboration with my co-founder of NguyenCapitalLLC.
+- Features secure workflows using Supabase Auth and Role-Based Access Control (RBAC) for managing user permissions across different roles.
+- 
+- IN PROGRESS: Currently working on it, but it is currently deployed here for demonstration purposes. --> [https://persistapro.com/login]
+- GitHub: [https://github.com/NguyenCapitalLLC/PersistaPro]
 
 
 ### **Weather-Alert-Service**
